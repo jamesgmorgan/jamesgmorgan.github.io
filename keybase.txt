@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jamesgmorgan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jgmorgan.com
+  * I am jamesgmorgan (https://keybase.io/jamesgmorgan) on keybase.
+  * I have a public key ASDfBtv2kXRhrX8TG7tyt6jTHQeYd7vuEsYm-r82AXpGJAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120df06dbf6917461ad7f131bbb72b7a8d31d079877bbee12c626fabf36017a46240a",
+            "host": "keybase.io",
+            "kid": "0120df06dbf6917461ad7f131bbb72b7a8d31d079877bbee12c626fabf36017a46240a",
+            "uid": "4bda76d1122d5853c25e352bc6155b00",
+            "username": "jamesgmorgan"
+        },
+        "service": {
+            "hostname": "jgmorgan.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1472262238,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472262205,
+        "hash": "af94830199cea32d078d0a29a1b9d28ec6fa9a54de59adb88d1913618d59be50f7af5082e551512437a56cdb9d2aaf5a0ff59dbe8b5a7e35d59502768530cbcb",
+        "seqno": 604553
+    },
+    "prev": "d818b4f0cacf18bdf3a8c0d8b21be8c54e8c3b9e34b38dfeb004c7e60a3a6b95",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3wbb9pF0Ya1/Exu7creo0x0HmHe77hLGJvq/NgF6RiQKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGYwNmRiZjY5MTc0NjFhZDdmMTMxYmJiNzJiN2E4ZDMxZDA3OTg3N2JiZWUxMmM2MjZmYWJmMzYwMTdhNDYyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGYwNmRiZjY5MTc0NjFhZDdmMTMxYmJiNzJiN2E4ZDMxZDA3OTg3N2JiZWUxMmM2MjZmYWJmMzYwMTdhNDYyNDBhIiwidWlkIjoiNGJkYTc2ZDExMjJkNTg1M2MyNWUzNTJiYzYxNTViMDAiLCJ1c2VybmFtZSI6ImphbWVzZ21vcmdhbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamdtb3JnYW4uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MjI2MjIzOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcyMjYyMjA1LCJoYXNoIjoiYWY5NDgzMDE5OWNlYTMyZDA3OGQwYTI5YTFiOWQyOGVjNmZhOWE1NGRlNTlhZGI4OGQxOTEzNjE4ZDU5YmU1MGY3YWY1MDgyZTU1MTUxMjQzN2E1NmNkYjlkMmFhZjVhMGZmNTlkYmU4YjVhN2UzNWQ1OTUwMjc2ODUzMGNiY2IiLCJzZXFubyI6NjA0NTUzfSwicHJldiI6ImQ4MThiNGYwY2FjZjE4YmRmM2E4YzBkOGIyMWJlOGM1NGU4YzNiOWUzNGIzOGRmZWIwMDRjN2U2MGEzYTZiOTUiLCJzZXFubyI6MjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA5aJ+ti7mnghCLXrcaUahJmolKzv93lIa+ZYtdPU6QwVf8RlAV/TXkSQ+7YLeOHyAW3VedirCUHJoPqBGFfD6DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILyi3SePkI6um2L9WghaF3I5sr1p3oRPRuM7XadGwvDno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesgmorgan
+
+==================================================================
